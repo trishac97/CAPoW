@@ -1,7 +1,0 @@
-flask
-flask_restful
-csv
-pickle
-rgensim
-numpy
-requests
